@@ -1,0 +1,10 @@
+{
+    "u-admin": {
+        "id": "u-admin",
+        "usuario": "admin",
+        "nombre": "admin",
+        "rol": "Administrador",
+        "last_seen": 1790633372,
+        "ip": "127.0.0.1"
+    }
+}
